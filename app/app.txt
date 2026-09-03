@@ -1,6 +1,10 @@
 TASK 4 - Git Version Control Demo
 
-Application Version: 1.0
+Application Version: 1.1
 
 This file is used to demonstrate Git commits,
-branches, feature development, and merging.
+branches, feature development, merging,
+and version-controlled application updates.
+
+Latest Feature:
+Application documentation and version update.
